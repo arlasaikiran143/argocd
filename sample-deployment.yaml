@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: sample
-        image: arlasaikiran1/sample:15
+        image: arlasaikiran1/sample:latest
         ports:
         - containerPort: 80
 
